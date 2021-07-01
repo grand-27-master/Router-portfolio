@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(122, 238, 122);
+    margin:0;
+    overflow:hidden;
+    width:100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+input:focus,
+textarea:focus,
+select:focus{
+    outline:none;
+}
+
+.header-text{
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    padding: 20px 0; 
+    color:white;
+}
+
+@media only screen and (max-width:640px) {
+    .header-text{
+        padding: 100px 0;
+    }
+    
+}

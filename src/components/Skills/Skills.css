@@ -1,0 +1,70 @@
+.bio{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
+
+.icons{
+    position: relative;
+    top: 100px;
+}
+
+.icon-1{
+    position: relative;
+   left: 90px;
+}
+
+.icon-2{
+ position: relative;
+ left: 150px;
+}
+
+.icon-3{
+ position: relative;
+ left: 210px;
+}
+
+.icon-4{
+     position: relative;
+     left: 270px;
+}
+
+.icon-5{
+     position: relative;
+     left: 360px;
+}
+
+.icon-6{
+    position: relative;
+    top: 180px;
+    left: 260px;
+    width: 110px;
+}
+
+.icon-7{
+     position: relative;
+     top: 180px;
+    right: 40px;
+     width: 110px;
+}
+
+.icon-8{
+     position: relative;
+     top: 180px;
+     right: 330px;
+     width: 110px;
+}
+
+.icon-9{
+      position: relative;
+      top: 180px;
+      right: 620px;
+      width: 110px;
+}
+
+.icon-10{
+      position: relative;
+      top: 180px;
+      right: 890px;
+      width: 110px;
+}
